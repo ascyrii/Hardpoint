@@ -17,6 +17,7 @@
 
 #define MAX_HARDPOINTS 			10;
 
+//AD:
 //Actual Hardpoint Data:
 int g_Counter = 10;
 int g_CurrentCycle = 0;
