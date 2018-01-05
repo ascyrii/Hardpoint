@@ -1,6 +1,6 @@
 /* 	
 *	Hardpoint.sp
-*   Made by Sidezz of Realization Entertainment
+*   Made by Ascyrii of Realization Entertainment
 *   March 8th, 2017
 *
 *   TODO: Random Cycle hardpoints
@@ -65,7 +65,7 @@ bool g_lateLoad = false;
 public Plugin myinfo = 
 {
 	name = "Hardpoint", 
-	author = "Sidezz", 
+	author = "Ascyrii", 
 	description = "A remake of the popular Call of Duty Gamemode - Hardpoint AKA King of the Hill", 
 	version = "1.0",
 	url = "www.coldcommunity.com"
